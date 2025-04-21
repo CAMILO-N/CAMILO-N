@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Data Science & AI Projects**
 - 🌱 I’m currently learning **Pandas and Python for Data Analysis**
+- 📊 I also work with **R** for data manipulation and statistics
+- 🛠️ Repairing New Programming Projects
 - 📫 Reach me at: **camolonunez@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -28,5 +30,8 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
 </p>
