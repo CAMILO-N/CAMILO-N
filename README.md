@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science & AI Projects**
 - 🌱 I’m currently learning **Pandas and Python for Data Analysis**
-- 🛠️ Repairing New Programming Projects
+- 🛠️ Prepairing New Programming Projects
 - 📫 Reach me at: **camolonunez@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
