@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Data Science & AI Enthusiast | Student at UDLA (Ecuador) | IEEE Member</h3>
 
 - 🔭 I’m currently working on **Data Science & AI Projects**
-- 🌱 I’m currently learning **Pandas and Python for Data Analysis**
+- 🌱 Learning **Pandas and Python for Data Analysis**
 - 🛠️ Prepairing New Programming Projects
 - 📫 Reach me at: **camolonunez@outlook.com**
 
